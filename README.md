@@ -18,3 +18,4 @@ Here you will get answer to part_2 statement- (https://github.com/soyvoyager/Wor
 
 # part 3-
 Write a function that takes a directory of data files and a threshold for complete cases and calculates the correlation between sulfate and nitrate for monitor locations where the number of completely observed cases (on all variables) is greater than the threshold. The function should return a vector of correlations for the monitors that meet the threshold requirement. If no monitors meet the threshold requirement, then the function should return a numeric vector of length 0.
+Here you will get code for Part_3- (https://github.com/soyvoyager/Working-on-Multiple-files-at-once-using-R_programming/blob/master/Part%203.R)
