@@ -1,0 +1,2 @@
+# Working-on-Multiple-files-at-once-using-R_programming
+The zip file contains 332 CSV files containing pollution monitoring data for fine particulate matter (PM) air pollution at 332 locations in the United States. Each file contains data from a single monitor and the ID number for each monitor is contained in the file name. In this section we are going to operate on those Multiple files in simple commands using R programming.
